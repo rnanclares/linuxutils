@@ -1,5 +1,5 @@
 # Linux Utils
-Useful commands for Linux cli
+Useful commands for Linux terminal
 
 ## Rename Pictures using find and exiv2
 
